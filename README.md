@@ -42,7 +42,7 @@ Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiê
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gino2&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gino2&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gino2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -63,6 +63,5 @@ Se quiser trocar ideias, conversar sobre projetos ou colaborar, fique à vontade
 - 💼 **LinkedIn:** [@rafael-de-gino-barbosa](https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9)
 
 ---
-
 <p align="center">💡 “Do conceito ao código, criando soluções que inspiram”</p>
 
