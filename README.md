@@ -1,32 +1,68 @@
-<h1 align="center">Olá! Eu sou o Rafael 👋</h1>
+<h1 align="center">Olá! 👋 Eu sou o Rafael De Gino</h1>
+<p align="center">Desenvolvedor <strong>Full Stack</strong> com foco em soluções modernas e escaláveis 🚀</p>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por tecnologia e inovação
+  <a href="https://rafaeldegino.github.io/Portfolio/" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🧰 Tecnologias que uso
+### 🧠 Sobre mim
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiência em front-end, back-end e banco de dados, me especializo em desenvolver **aplicações completas**, do design à infraestrutura.
+
+> Meu foco está em tecnologias modernas e na busca constante por aprendizado e boas práticas de desenvolvimento.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gino2&show_icons=true&theme=radical&count_private=true&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gino2&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-### 📫 Contato
+### 🧩 Repositórios em destaque
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seuusuario/)](https://www.linkedin.com/in/seuusuario/)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+- 🔗 [Meu Portfólio](https://rafaeldegino.github.io/Portfolio/) – Uma vitrine visual dos meus principais projetos.
+- 💼 [Clone de Aplicação React/Firebase] – (adicione o link de um projeto aqui!)
+- 🛠️ [API Node.js com MongoDB] – (adicione o link de outro projeto aqui!)
+
+---
+
+### 🤝 Vamos nos conectar
+
+Se quiser trocar ideias, conversar sobre projetos ou colaborar, fique à vontade para me chamar:
+
+- 📧 **Email:** [rafaeldegino@gmail.com](mailto:rafaeldegino@gmail.com)
+- 💼 **LinkedIn:** [@rafael-de-gino-barbosa](https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9)
+
+---
+
+<p align="center">💡 “Tecnologia é ferramenta. Inovação é mentalidade.”</p>
 
