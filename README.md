@@ -47,11 +47,11 @@ Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiê
 
 ---
 
-### 🧩 Repositórios em destaque
+### 🧩 Projetos em destaque
 
 - 🔗 [Meu Portfólio](https://rafaeldegino.github.io/Portfolio/) – Uma vitrine visual dos meus principais projetos.
-- 💼 [Clone de Aplicação React/Firebase] – (adicione o link de um projeto aqui!)
-- 🛠️ [API Node.js com MongoDB] – (adicione o link de outro projeto aqui!)
+- 💼 [Projeto Travis Scott](https://rafaeldegino.github.io/Utopia-World/) - Meu primeiro projeto pessoal inspirado ao álbum "Utopia" do artista Travis Scott
+- 🛠️ [GeoTrack](https://rafaeldegino.github.io/GeoTrack/) - Site da empresa ficticia GeoTrack, especializada no transporte de energia geotérmica.
 
 ---
 
@@ -59,7 +59,7 @@ Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiê
 
 Se quiser trocar ideias, conversar sobre projetos ou colaborar, fique à vontade para me chamar:
 
-- 📧 **Email:** [rafaeldegino@gmail.com](mailto:rafaeldegino@gmail.com)
+- 📧 **Email:** [rafaelgino2727@gmail.com](mailto:rafaelgino2727gmail.com)
 - 💼 **LinkedIn:** [@rafael-de-gino-barbosa](https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9)
 
 ---
