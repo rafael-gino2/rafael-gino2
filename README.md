@@ -64,5 +64,5 @@ Se quiser trocar ideias, conversar sobre projetos ou colaborar, fique à vontade
 
 ---
 
-<p align="center">💡 “Tecnologia é ferramenta. Inovação é mentalidade.”</p>
+<p align="center">💡 “Do conceito ao código, criando soluções que inspiram”</p>
 
