@@ -41,7 +41,7 @@ Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiê
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gino2&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gino2&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gino2&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=10"/>
 </div>
 
