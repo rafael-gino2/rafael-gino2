@@ -49,7 +49,7 @@ Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiê
 
 ### 🧩 Projetos em destaque
 
-- 🔗 [Meu Portfólio](https://rafaeldegino.github.io/Portfolio/) – Uma vitrine visual dos meus principais projetos.
+- 🔗 [Meu Portfólio](https://portfolio-rafael-azure.vercel.app) – Uma vitrine visual dos meus principais projetos.
 - 💼 [Projeto Travis Scott](https://rafaeldegino.github.io/Utopia-World/) - Meu primeiro projeto pessoal inspirado ao álbum "Utopia" do artista Travis Scott
 - 🛠️ [GeoTrack](https://rafaeldegino.github.io/GeoTrack/) - Site da empresa ficticia GeoTrack, especializada no transporte de energia geotérmica.
 
