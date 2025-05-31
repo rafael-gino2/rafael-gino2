@@ -2,7 +2,7 @@
 <p align="center">Desenvolvedor <strong>Full Stack</strong> com foco em soluções modernas e escaláveis 🚀</p>
 
 <p align="center">
-  <a href="https://rafaeldegino.github.io/Portfolio/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9/" target="_blank">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rafael-de-gino-barbosa-9191152b9" target="_blank">
