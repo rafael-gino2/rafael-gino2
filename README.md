@@ -14,9 +14,15 @@
 
 ### 🧠 Sobre mim
 
-Sou apaixonado por criar interfaces intuitivas e backends robustos. Com experiência em front-end, back-end e banco de dados, me especializo em desenvolver **aplicações completas**, do design à infraestrutura.
+Sou apaixonado por criar interfaces intuitivas, desenvolver backends robustos e transformar dados em insights estratégicos. Com experiência em front-end, back-end, banco de dados e análise de dados, me especializo em:
 
-> Meu foco está em tecnologias modernas e na busca constante por aprendizado e boas práticas de desenvolvimento.
+Desenvolver aplicações completas (do design à infraestrutura);
+
+Analisar e visualizar dados para suporte à decisão;
+
+Automatizar processos com scripts e ferramentas de ETL.
+
+Meu foco está em tecnologias modernas, na intersecção entre desenvolvimento e análise de dados, e na busca constante por aprendizado e boas práticas.
 
 ---
 
