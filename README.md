@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Rafael De Gino</h1>
-<p align="center">Desenvolvedor <strong>Full Stack</strong> com foco em soluções modernas e escaláveis 🚀</p>
+<p align="center">Desenvolvedor <strong>Full Stack</strong>| <strong>Analista de Dados</strong>  com foco em soluções modernas e escaláveis 🚀</p>
 
 <p align="center">
   <a href="https://portfolio-rafael-azure.vercel.app" target="_blank">
